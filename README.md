@@ -21,7 +21,7 @@ Modern ve kullanıcı dostu bir masaüstü todo uygulaması.
 
 1. Repoyu klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/qt5-todo-app.git
+git clone https://github.com/efesahins1035/qt5-todo-app.git
 cd qt5-todo-app
 ```
 
